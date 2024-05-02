@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as a,a3 as t}from"./chunks/framework.7ep0oyv4.js";const u=JSON.parse('{"title":"Entropy Docs - README","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),i={name:"README.md"},n=t("",16),o=[n];function r(l,h,p,d,c,k){return a(),s("div",null,o)}const y=e(i,[["render",r]]);export{u as __pageData,y as default};
